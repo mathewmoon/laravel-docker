@@ -1,8 +1,0 @@
-create registry and provide credentials
-add me to src controll as an admin
-make list of dependencies (php modules, apache modules, etc) for each image
-provide a db dump of a current project
-create a project named Docker in git and add me as admin
-list of commands you want run when the container starts
-where do you want directories mounted
-
